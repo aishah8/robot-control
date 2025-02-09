@@ -38,4 +38,4 @@ Summary of Files:
 - retrieve_lastt.php: Displays the last direction stored in the database.
 
 
-الآن تم إلغاء استخدام الـ Markdown واستبداله بالنص العادي.
+
