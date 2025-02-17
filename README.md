@@ -33,5 +33,4 @@ I also created another page (called *retrieve_lastt.php*) to display the last di
 ### *Summary of Files:*
 - *index.html*: Contains the user interface with buttons to control the robot.
 - *robotttt.php*: Handles sending the directions to the database when the buttons are clicked.
-- *db_connect.php*: Contains the database connection (used by several files).
 - *retrieve_lastt.php*: Displays the last direction stored in the database.
