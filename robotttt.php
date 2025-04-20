@@ -12,7 +12,7 @@
             justify-content: center;
             align-items: center;
             font-family: Arial, sans-serif;
-     background: url('dd.jpg') no-repeat center center/cover; /* استبدل background.jpg بمسار صورتك */
+     background: url('dd.jpg') no-repeat center center/cover; 
      background-size: cover;
      background-attachment: fixed;
         }
@@ -21,7 +21,7 @@
 
         .container {
             text-align: center;
-            background: linear-gradient(135deg, #6a11cb, #2575fc); /* خلفية متدرجة */
+            background: linear-gradient(135deg, #6a11cb, #2575fc); 
             padding: 30px;
             border-radius: 15px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -57,7 +57,7 @@
 
         button:active {
             background-color: #1a242f;
-            transform: translateY(-3px); /* تأثير الزر عند الضغط */
+            transform: translateY(-3px); 
         }
     </style>
 </head>
